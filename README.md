@@ -50,3 +50,7 @@ The bug tracker utilizes several labels to help organize and identify issues.
 ### Guidelines for bug reports 🐛
 
 Use the GitHub issue search — check if the issue has already been reported.
+
+# Credit
+
+Thank you to [@TomNomNom](https://github.com/tomnomnom), [@jimen0](https://github.com/jimen0), and [@0003random](https://github.com/003random) for their help.
