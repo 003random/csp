@@ -30,6 +30,7 @@ import (
 */
 
 // Forgive me, Father, for I have sinned.
+// Father: You have been forgiven, son
 var r = regexp.MustCompile("(([a-zA-Z](-?[a-zA-Z0-9])*)\\.)+[a-zA-Z]{2,}")
 
 // Consider using https://github.com/tike/csp in future.
